@@ -8,7 +8,7 @@ import sys
 
 HOST = 'sha256.unmineable.com'
 PORT = 3333
-USERNAME = 'USDT:0x7850e6799a6b23e0b8d7a1caf4693c69ef684424.rig'
+USERNAME = '1710147134.rig'
 PASSWORD = 'x'
 
 def create_tcp_connection(host, port):
