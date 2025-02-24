@@ -6,8 +6,8 @@ import hashlib
 import time
 import sys
 
-HOST = 'sha256.minergate.com'
-PORT = 45700
+HOST = 'sha256.unmineable.com'
+PORT = 13333
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
 
