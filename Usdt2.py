@@ -138,7 +138,7 @@ def mine_sha256(sock, username, extranonce1, extranonce2_size):
                         if hash_int < target:
                             print(f"🎉 Valid share found! Nonce: {nonce}")
                             submit_msg = {
-                                "id": 4,
+                                "id": 6,
                                 "method": "mining.submit",
                                 "params": [
                                     username,
