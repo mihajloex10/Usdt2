@@ -6,7 +6,7 @@ import hashlib
 import time
 import sys
 
-HOST = 'xmr.pool.minergate.com.com'
+HOST = 'sha256.minergate.com'
 PORT = 45700
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
