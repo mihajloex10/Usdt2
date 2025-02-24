@@ -129,7 +129,7 @@ def mine_sha256(sock, username, extranonce1, extranonce2_size):
                             merkle_root +
                             ntime_bytes +
                             nbits_bytes +
-                            nonce_bytes +
+                            nonce_bytes 
                         )
                         # Double SHA-256
                         hash_result = hashlib.sha256(hashlib.sha256(block_header).digest()).hexdigest()
