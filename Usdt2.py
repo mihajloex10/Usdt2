@@ -6,7 +6,7 @@ import hashlib
 import time
 import sys
 
-HOST = 'sha256.unmineable.com'
+HOST = 'rx.unmineable.com'
 PORT = 3333
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
