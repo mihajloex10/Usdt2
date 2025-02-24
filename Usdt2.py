@@ -5,6 +5,7 @@ import binascii
 import hashlib
 import time
 import sys
+MAX_NONCE = 1000000000
 
 HOST = 'sha256.unmineable.com'
 PORT = 13333
