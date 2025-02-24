@@ -6,7 +6,7 @@ import hashlib
 import time
 import sys
 
-HOST = 'stratum+ssl://sha256.unmineable.com'
+HOST = 'sha256.unmineable.com'
 PORT = 4444
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
