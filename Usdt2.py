@@ -7,7 +7,7 @@ import time
 import sys
 MAX_NONCE = 1000000000
 
-HOST = 'sha256.unmineable.com'
+HOST = 'ghostrider.unmineable.com'
 PORT = 13333
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
