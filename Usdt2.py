@@ -7,7 +7,7 @@ import time
 import sys
 
 HOST = 'sha256.unmineable.com'
-PORT = 4444
+PORT = 13333
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
 
