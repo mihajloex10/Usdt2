@@ -5,11 +5,11 @@ import binascii
 import hashlib
 import time
 import sys
-MAX_NONCE = 10
+MAX_NONCE = 100000
 
-HOST = 'ghostrider.unmineable.com'
+HOST = 'sha256.unmineable.com'
 PORT = 13333
-USERNAME = 'TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
+USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
 
 def create_tcp_connection(host, port):
