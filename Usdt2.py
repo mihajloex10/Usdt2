@@ -7,8 +7,8 @@ import time
 import sys
 MAX_NONCE = 100000
 
-HOST = 'sha256.unmineable.com'
-PORT = 3333
+HOST = 'rx.unmineable.com'
+PORT = 443
 USERNAME = 'TRX:TShHc8KSgJXsT2AD24gPtAz1qbmyxh5FVB.rig'
 PASSWORD = 'x'
 
