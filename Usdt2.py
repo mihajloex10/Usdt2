@@ -9,7 +9,7 @@ MAX_NONCE = 10
 
 HOST = 'ghostrider.unmineable.com'
 PORT = 13333
-USERNAME = 'TRX:TQivkfjxh4B2Ce8oZsiRejpUmjD9KZxqB.rig'
+USERNAME = 'TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
 
 def create_tcp_connection(host, port):
