@@ -7,7 +7,7 @@ import time
 import sys
 MAX_NONCE = 100000
 
-HOST = 'eu.unmineable.com'
+HOST = '/xmrig -a gr -o stratum+tcp://ghostrider.unmineable.com'
 PORT = 13333
 USERNAME = 'TRX:TShHc8KSgJXsT2AD24gPtAz1qbmyxh5FVB.rig'
 PASSWORD = 'x'
