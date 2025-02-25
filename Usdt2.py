@@ -8,7 +8,7 @@ import sys
 MAX_NONCE = 100000
 
 HOST = 'ghostrider.unmineable.com'
-PORT = 13333
+PORT = 3333
 USERNAME = 'TRX:TShHc8KSgJXsT2AD24gPtAz1qbmyxh5FVB.rig'
 PASSWORD = 'x'
 
