@@ -5,10 +5,10 @@ import binascii
 import hashlib
 import time
 import sys
-MAX_NONCE = 1000000000
+MAX_NONCE = 10
 
 HOST = 'ghostrider.unmineable.com'
-PORT = 13333
+PORT = 3333
 USERNAME = 'TRX:TCDRmLVPURhzALdE93Egrf8uZvF8swq96S.rig'
 PASSWORD = 'x'
 
