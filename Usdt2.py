@@ -7,9 +7,9 @@ import time
 import sys
 MAX_NONCE = 100000
 
-HOST = 'sha256.rx.unmineable.com'
+HOST = 'sha256.unmineable.com'
 PORT = 3333
-USERNAME = 'TShHc8KSgJXsT2AD24gPtAz1qbmyxh5FVB.rig'
+USERNAME = 'TCDRmLVPURhzALdE93Egrf8uZvF8swq96S'
 PASSWORD = 'x'
 
 def create_tcp_connection(host, port):
